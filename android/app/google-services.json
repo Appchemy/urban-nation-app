@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685356725836",
+    "firebase_url": "https://urban-talent.firebaseio.com",
+    "project_id": "urban-talent",
+    "storage_bucket": "urban-talent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685356725836:android:a2a0d88c11102feedd26e9",
+        "android_client_info": {
+          "package_name": "com.urbannation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685356725836-6m9uglj9gmvnucrvu4r4fuf6qmbmog6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TfZu_edmOJ5Msk0fZbDlfSpa5GWeyb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685356725836-6m9uglj9gmvnucrvu4r4fuf6qmbmog6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
